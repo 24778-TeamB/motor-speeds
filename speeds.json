@@ -1,1 +1,238 @@
-stuff
+{
+  "motor-speeds": [
+
+    {
+      "motor-set": "front",
+      "side": "right",
+      "speeds": [
+        {
+          "movement": "forward",
+          "speed": 255
+        },
+        {
+          "movement": "reverse",
+          "speed": 255
+        },
+        {
+          "movement": "left",
+          "speed": 255
+        },
+        {
+          "movement": "right",
+          "speed": 255
+        },
+        {
+          "movement": "cw",
+          "speed": 255
+        },
+        {
+          "movement": "ccw",
+          "speed": 255
+        },
+        {
+          "movement": "climb",
+          "speed": 255
+        },
+        {
+          "movement": "stop",
+          "speed": 0
+        }
+      ]
+    },
+
+    {
+      "motor-set": "front",
+      "side": "left",
+      "speeds": [
+        {
+          "movement": "forward",
+          "speed": 255
+        },
+        {
+          "movement": "reverse",
+          "speed": 255
+        },
+        {
+          "movement": "left",
+          "speed": 255
+        },
+        {
+          "movement": "right",
+          "speed": 255
+        },
+        {
+          "movement": "cw",
+          "speed": 255
+        },
+        {
+          "movement": "ccw",
+          "speed": 255
+        },
+        {
+          "movement": "climb",
+          "speed": 255
+        },
+        {
+          "movement": "stop",
+          "speed": 0
+        }
+      ]
+    },
+
+    {
+      "motor-set": "middle",
+      "side": "right",
+      "speeds": [
+        {
+          "movement": "forward",
+          "speed": 255
+        },
+        {
+          "movement": "reverse",
+          "speed": 255
+        },
+        {
+          "movement": "left",
+          "speed": 255
+        },
+        {
+          "movement": "right",
+          "speed": 255
+        },
+        {
+          "movement": "cw",
+          "speed": 255
+        },
+        {
+          "movement": "ccw",
+          "speed": 255
+        },
+        {
+          "movement": "climb",
+          "speed": 255
+        },
+        {
+          "movement": "stop",
+          "speed": 0
+        }
+      ]
+    },
+
+    {
+      "motor-set": "middle",
+      "side": "left",
+      "speeds": [
+        {
+          "movement": "forward",
+          "speed": 255
+        },
+        {
+          "movement": "reverse",
+          "speed": 255
+        },
+        {
+          "movement": "left",
+          "speed": 255
+        },
+        {
+          "movement": "right",
+          "speed": 255
+        },
+        {
+          "movement": "cw",
+          "speed": 255
+        },
+        {
+          "movement": "ccw",
+          "speed": 255
+        },
+        {
+          "movement": "climb",
+          "speed": 255
+        },
+        {
+          "movement": "stop",
+          "speed": 0
+        }
+      ]
+    },
+
+    {
+      "motor-set": "rear",
+      "side": "right",
+      "speeds": [
+        {
+          "movement": "forward",
+          "speed": 255
+        },
+        {
+          "movement": "reverse",
+          "speed": 255
+        },
+        {
+          "movement": "left",
+          "speed": 255
+        },
+        {
+          "movement": "right",
+          "speed": 255
+        },
+        {
+          "movement": "cw",
+          "speed": 255
+        },
+        {
+          "movement": "ccw",
+          "speed": 255
+        },
+        {
+          "movement": "climb",
+          "speed": 255
+        },
+        {
+          "movement": "stop",
+          "speed": 0
+        }
+      ]
+    },
+
+    {
+      "motor-set": "rear",
+      "side": "left",
+      "speeds": [
+        {
+          "movement": "forward",
+          "speed": 255
+        },
+        {
+          "movement": "reverse",
+          "speed": 255
+        },
+        {
+          "movement": "left",
+          "speed": 255
+        },
+        {
+          "movement": "right",
+          "speed": 255
+        },
+        {
+          "movement": "cw",
+          "speed": 255
+        },
+        {
+          "movement": "ccw",
+          "speed": 255
+        },
+        {
+          "movement": "climb",
+          "speed": 255
+        },
+        {
+          "movement": "stop",
+          "speed": 0
+        }
+      ]
+    }
+  ]
+}
