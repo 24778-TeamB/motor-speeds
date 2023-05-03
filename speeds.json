@@ -93,7 +93,7 @@
         },
         {
           "movement": "left",
-          "speed": 200
+          "speed": 255
         },
         {
           "movement": "right",
@@ -136,7 +136,7 @@
         },
         {
           "movement": "right",
-          "speed": 200
+          "speed": 255
         },
         {
           "movement": "cw",
@@ -175,7 +175,7 @@
         },
         {
           "movement": "right",
-          "speed": 200
+          "speed": 255
         },
         {
           "movement": "cw",
@@ -210,7 +210,7 @@
         },
         {
           "movement": "left",
-          "speed": 200
+          "speed": 255
         },
         {
           "movement": "right",
