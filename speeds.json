@@ -27,7 +27,7 @@
         },
         {
           "movement": "ccw",
-          "speed": 255
+          "speed": 160
         },
         {
           "movement": "climb",
@@ -62,7 +62,7 @@
         },
         {
           "movement": "cw",
-          "speed": 255
+          "speed": 160
         },
         {
           "movement": "ccw",
@@ -105,7 +105,7 @@
         },
         {
           "movement": "ccw",
-          "speed": 255
+          "speed": 160
         },
         {
           "movement": "climb",
@@ -140,7 +140,7 @@
         },
         {
           "movement": "cw",
-          "speed": 255
+          "speed": 160
         },
         {
           "movement": "ccw",
@@ -183,7 +183,7 @@
         },
         {
           "movement": "ccw",
-          "speed": 255
+          "speed": 160
         },
         {
           "movement": "climb",
@@ -218,7 +218,7 @@
         },
         {
           "movement": "cw",
-          "speed": 255
+          "speed": 160
         },
         {
           "movement": "ccw",
