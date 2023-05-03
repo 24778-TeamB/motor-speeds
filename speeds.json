@@ -7,7 +7,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -46,7 +46,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -85,7 +85,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -124,7 +124,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -163,7 +163,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -202,7 +202,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
