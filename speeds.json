@@ -7,7 +7,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 0
         },
         {
           "movement": "reverse",
@@ -46,7 +46,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 0
         },
         {
           "movement": "reverse",
