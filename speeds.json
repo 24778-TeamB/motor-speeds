@@ -7,7 +7,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 0
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -27,7 +27,7 @@
         },
         {
           "movement": "ccw",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "climb",
@@ -46,7 +46,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 0
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -62,7 +62,7 @@
         },
         {
           "movement": "cw",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "ccw",
@@ -85,7 +85,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -105,7 +105,7 @@
         },
         {
           "movement": "ccw",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "climb",
@@ -124,7 +124,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -140,7 +140,7 @@
         },
         {
           "movement": "cw",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "ccw",
@@ -163,7 +163,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -183,7 +183,7 @@
         },
         {
           "movement": "ccw",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "climb",
@@ -202,7 +202,7 @@
       "speeds": [
         {
           "movement": "forward",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "reverse",
@@ -218,7 +218,7 @@
         },
         {
           "movement": "cw",
-          "speed": 255
+          "speed": 128
         },
         {
           "movement": "ccw",
